@@ -1,4 +1,4 @@
-.. Github doesn't render images unless absolute URL
+.. Github doesn't render images unless use absolute URL
 .. Do not know of a conditional tag, "only: github" nor "github display" works
 
 |badge1| |badge2| |badge3| |badge4| |badge5| |badge6| |badge7| |badge8|
